@@ -1,0 +1,2 @@
+# Newaita
+Linux icon theme
