@@ -20,16 +20,16 @@
   <defs
      id="defs3699">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient918">
+       id="linearGradient860"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#e1f5fe;stop-opacity:1"
+         id="stop856"
          offset="0"
-         id="stop914" />
+         style="stop-color:#90caf9;stop-opacity:1" />
       <stop
-         style="stop-color:#b3e5fc;stop-opacity:1"
+         id="stop858"
          offset="1"
-         id="stop916" />
+         style="stop-color:#bbdefb;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -115,7 +115,7 @@
        r="21.166656" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient918"
+       xlink:href="#linearGradient860"
        id="linearGradient972"
        x1="305.95456"
        y1="-31.87709"
@@ -125,7 +125,7 @@
        gradientTransform="matrix(1.2054795,0,0,3.4782611,-93.655267,323.21018)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient918"
+       xlink:href="#linearGradient860"
        id="linearGradient890"
        x1="960"
        y1="1095.1182"
@@ -134,7 +134,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient918"
+       xlink:href="#linearGradient860"
        id="linearGradient906"
        gradientUnits="userSpaceOnUse"
        x1="960"
@@ -151,8 +151,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.19558824"
-     inkscape:cx="246.46512"
-     inkscape:cy="1069.4419"
+     inkscape:cx="-724.96343"
+     inkscape:cy="1048.9908"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -242,7 +242,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -306,7 +306,7 @@
     <path
        id="path904"
        d="M 52.91666,212.33333 C 41.19033,212.33333 31.75,204.07304 31.75,193.8125 L 232.83333,-4.624999 c 7.9375,-7.9375 14.55208,-11.90625 21.16666,-11.90625 6.61459,0 13.22917,3.96875 21.16667,11.90625 L 476.24999,193.8125 c 0,10.26054 -9.44033,18.52083 -21.16667,18.52083 H 253.99999 Z"
-       style="opacity:1;fill:url(#linearGradient906);fill-opacity:1;stroke:#212121;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:url(#linearGradient906);fill-opacity:1.0;stroke:#212121;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
