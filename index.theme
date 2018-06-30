@@ -16,7 +16,7 @@ PanelSizes=16,22,32,48,64,128,256
 FollowsColorScheme=true
 
 
-Directories=mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/32,,mimetypes/64,mimetypes/256,mimetypes/scalable,places/16,places/22,places/24,places/32,places/64,places/128,places/256,places/scalable,apps/16,apps/22,apps/24,apps/64,apps/128,apps/256,apps/scalable,actions/toolbar,actions/toolbar-small,actions/categories,devices/scalable,categories/16,categories/24,categories/32,categories/48,categories/64,categories/128,categories/256,categories/scalable
+Directories=mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/32,,mimetypes/64,mimetypes/256,mimetypes/scalable,places/16,places/22,places/24,places/32,places/64,places/128,places/256,places/scalable,apps/16,apps/22,apps/24,apps/64,apps/128,apps/256,apps/scalable,actions/toolbar,actions/toolbar-small,actions/categories,devices/scalable,categories/16,categories/24,categories/32,categories/48,categories/64,categories/128,categories/256,categories/scalable,status/16,status/22,status/24,status/32,status/64,status/256,status/scalable 
 
 
 [actions/toolbar]
@@ -41,17 +41,17 @@ MaxSize=56
 Type=Scalable
 
 [apps/16]
-Context=Actions
+Context=Applications
 Size=16
 Type=Fixed
 
 [apps/22]
-Context=Actions
+Context=Applications
 Size=22
 Type=Fixed
 
 [apps/24]
-Context=Actions
+Context=Applications
 Size=24
 Type=Fixed
 
@@ -62,7 +62,7 @@ MinSize=1
 MaxSize=512
 Type=Scalable
 
-[apps/symbolic]
+[apps/status]
 Context=Applications
 Size=16
 MinSize=1
@@ -277,6 +277,63 @@ MaxSize=511
 
 [places/scalable]
 Context=Places
+Size=512
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[status/16]
+Size=16
+Scale=2
+Context=Status
+MinSize=8
+MaxSize=23
+Type=Scalable
+
+[status/22]
+Size=22
+Context=Status
+MinSize=8
+MaxSize=23
+Type=Scalable
+
+[status/24]
+Size=24
+Context=Status
+MinSize=8
+MaxSize=31
+Type=Scalable
+
+[status/32]
+Size=32
+Context=Status
+Type=Scalable
+MinSize=8
+MaxSize=47
+
+[status/64]
+Size=64
+Context=Status
+Type=Scalable
+MinSize=8
+MaxSize=127
+
+[status/128]
+Size=128
+Context=Status
+Type=Scalable
+MinSize=8
+MaxSize=255
+
+[status/256]
+Size=256
+Context=Status
+Type=Scalable
+MinSize=8
+MaxSize=511
+
+[status/scalable]
+Context=Status
 Size=512
 MinSize=8
 MaxSize=512
