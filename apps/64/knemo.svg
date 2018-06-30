@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64pt" height="64pt" viewBox="0 0 64 64" version="1.1">
 <defs>
-<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000348341,-0.156265,-0.281277,-0.000000203077,89.046304,127.190659)">
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000348341,-0.156265,-0.281277,-0.000000203077,104.261301,127.190659)">
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
-<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000348341,0.156265,0.281277,0.000000203077,-25.540237,-15.054964)">
+<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000348341,0.156265,0.281277,0.000000203077,-20.909589,-15.054964)">
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
-<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000348341,-0.156265,0.281277,-0.000000203077,-25.540237,127.190659)">
+<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(-0.000000348341,-0.156265,0.281277,-0.000000203077,-20.909589,127.190659)">
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
-<radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000348341,0.156265,-0.281277,0.000000203077,89.0463,-15.054965)">
+<radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="450.908936" cy="189.579361" fx="450.908936" fy="189.579361" r="21.166656" gradientTransform="matrix(0.000000348341,0.156265,-0.281277,0.000000203077,104.261297,-15.054965)">
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.313725;"/>
 <stop offset="0.222222" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </radialGradient>
-<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="255.323059" y1="233.5" x2="255.323044" y2="254.666656" gradientTransform="matrix(0.0267201,0,0,0.125012,24.930772,26.877567)">
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="255.323059" y1="233.5" x2="255.323044" y2="254.666656" gradientTransform="matrix(0.0267201,0,0,0.125012,-3.514652,26.877567)">
 <stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.27451;"/>
 <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
 </linearGradient>
@@ -49,11 +49,11 @@
 </linearGradient>
 </defs>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial0);" d="M 36.382812 56.066406 L 41.675781 56.066406 L 41.675781 53.421875 L 36.382812 53.421875 Z M 36.382812 56.066406 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial1);" d="M 27.121094 56.066406 L 21.832031 56.066406 L 21.832031 58.714844 L 27.121094 58.714844 Z M 27.121094 56.066406 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial2);" d="M 27.121094 56.066406 L 21.832031 56.066406 L 21.832031 53.421875 L 27.121094 53.421875 Z M 27.121094 56.066406 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial3);" d="M 36.382812 56.066406 L 41.675781 56.066406 L 41.675781 58.714844 L 36.382812 58.714844 Z M 36.382812 56.066406 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 27.121094 55.40625 L 36.382812 55.40625 L 36.382812 58.714844 L 27.121094 58.714844 Z M 27.121094 55.40625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial0);" d="M 51.597656 56.066406 L 56.890625 56.066406 L 56.890625 53.421875 L 51.597656 53.421875 Z M 51.597656 56.066406 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial1);" d="M 31.753906 56.066406 L 26.460938 56.066406 L 26.460938 58.714844 L 31.753906 58.714844 Z M 31.753906 56.066406 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial2);" d="M 31.753906 56.066406 L 26.460938 56.066406 L 26.460938 53.421875 L 31.753906 53.421875 Z M 31.753906 56.066406 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial3);" d="M 51.597656 56.066406 L 56.890625 56.066406 L 56.890625 58.714844 L 51.597656 58.714844 Z M 51.597656 56.066406 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 31.753906 55.40625 L 51.597656 55.40625 L 51.597656 58.714844 L 31.753906 58.714844 Z M 31.753906 55.40625 "/>
 <path style="fill-rule:nonzero;fill:url(#linear1);stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(20%,20%,20%);stroke-opacity:1;stroke-miterlimit:4;" d="M 254.006994 -168.660675 C 365.058889 -168.660675 455.081542 -78.638022 455.081542 32.413873 C 455.081542 143.465768 365.058889 233.488421 254.006994 233.488421 C 142.955098 233.488421 52.901198 143.465768 52.901198 32.413873 C 52.901198 -78.638022 142.955098 -168.660675 254.006994 -168.660675 Z M 254.006994 -168.660675 " transform="matrix(0.125012,0,0,0.125012,0,26.877566)"/>
 <use xlink:href="#surface5"/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.588235;" d="M 31.753906 5.792969 C 17.828125 5.792969 6.613281 17.003906 6.613281 30.929688 C 6.613281 31.011719 6.617188 31.09375 6.617188 31.175781 C 6.746094 17.363281 17.910156 6.285156 31.753906 6.285156 C 45.597656 6.285156 56.757812 17.363281 56.890625 31.175781 C 56.890625 31.09375 56.890625 31.011719 56.890625 30.929688 C 56.890625 17.003906 45.679688 5.792969 31.753906 5.792969 Z M 31.753906 5.792969 "/>
