@@ -16,18 +16,30 @@
    version="1.1"
    id="svg3705"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="kcolorchooser.svg">
+   sodipodi:docname="color-picker.svg">
   <defs
      id="defs3699">
+    <linearGradient
+       id="linearGradient883"
+       inkscape:collect="always">
+      <stop
+         id="stop879"
+         offset="0"
+         style="stop-color:#b0bec5;stop-opacity:1" />
+      <stop
+         id="stop881"
+         offset="1"
+         style="stop-color:#cfd8dc;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient916">
       <stop
-         style="stop-color:#90a4ae;stop-opacity:1"
+         style="stop-color:#b0bec5;stop-opacity:1"
          offset="0"
          id="stop912" />
       <stop
-         style="stop-color:#b0bec5;stop-opacity:1"
+         style="stop-color:#cfd8dc;stop-opacity:1"
          offset="1"
          id="stop914" />
     </linearGradient>
@@ -37,21 +49,21 @@
       <stop
          id="stop893"
          offset="0"
-         style="stop-color:#e53935;stop-opacity:1" />
+         style="stop-color:#ef5350;stop-opacity:1" />
       <stop
          id="stop895"
          offset="1"
-         style="stop-color:#f44336;stop-opacity:1" />
+         style="stop-color:#e57373;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient887">
       <stop
-         style="stop-color:#7cb342;stop-opacity:1"
+         style="stop-color:#66bb6a;stop-opacity:1"
          offset="0"
          id="stop883" />
       <stop
-         style="stop-color:#8bc34a;stop-opacity:1"
+         style="stop-color:#81c784;stop-opacity:1"
          offset="1"
          id="stop885" />
     </linearGradient>
@@ -61,21 +73,21 @@
       <stop
          id="stop872"
          offset="0"
-         style="stop-color:#42a5f5;stop-opacity:1" />
+         style="stop-color:#64b5f6;stop-opacity:1" />
       <stop
          id="stop874"
          offset="1"
-         style="stop-color:#2196f3;stop-opacity:1" />
+         style="stop-color:#42a5f5;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient970">
       <stop
-         style="stop-color:#ffe082;stop-opacity:1"
+         style="stop-color:#ffd54f;stop-opacity:1"
          offset="0"
          id="stop966" />
       <stop
-         style="stop-color:#ffd54f;stop-opacity:1"
+         style="stop-color:#ffca28;stop-opacity:1"
          offset="1"
          id="stop968" />
     </linearGradient>
@@ -102,7 +114,7 @@
        x1="254"
        y1="-168.66667"
        x2="254"
-       y2="233.5"
+       y2="32.416664"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -178,7 +190,7 @@
        x1="254"
        y1="-168.66667"
        x2="254"
-       y2="233.5"
+       y2="32.416668"
        gradientTransform="matrix(3.7795276,0,0,3.7795276,0,812.59842)" />
     <linearGradient
        inkscape:collect="always"
@@ -189,7 +201,7 @@
        x1="254"
        y1="-168.66667"
        x2="254"
-       y2="233.5" />
+       y2="32.41642" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient897"
@@ -199,10 +211,10 @@
        x1="254"
        y1="-168.66667"
        x2="254"
-       y2="233.5" />
+       y2="32.41642" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient916"
+       xlink:href="#linearGradient883"
        id="linearGradient918"
        x1="1320"
        y1="1695.1182"
@@ -227,7 +239,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.38"
-     inkscape:cx="1246.5834"
+     inkscape:cx="312.37288"
      inkscape:cy="817.60758"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -235,9 +247,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1021"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0">
@@ -323,7 +335,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -380,7 +392,7 @@
          style="fill:url(#linearGradient4620);fill-opacity:1;stroke-width:0.12232239" />
     </g>
     <rect
-       style="opacity:1;fill:url(#linearGradient876);fill-opacity:1.0;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient876);fill-opacity:1;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect860"
        width="402.16666"
        height="402.16666"

@@ -35,11 +35,11 @@
        inkscape:collect="always"
        id="linearGradient916">
       <stop
-         style="stop-color:#ff7043;stop-opacity:1"
+         style="stop-color:#ff8a65;stop-opacity:1"
          offset="0"
          id="stop912" />
       <stop
-         style="stop-color:#ff5722;stop-opacity:1"
+         style="stop-color:#ff7043;stop-opacity:1"
          offset="1"
          id="stop914" />
     </linearGradient>
@@ -49,21 +49,21 @@
       <stop
          id="stop891"
          offset="0"
-         style="stop-color:#fdd835;stop-opacity:1" />
+         style="stop-color:#ffb74d;stop-opacity:1" />
       <stop
          id="stop893"
          offset="1"
-         style="stop-color:#fbc02d;stop-opacity:1" />
+         style="stop-color:#ffa726;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient970">
       <stop
-         style="stop-color:#4dd0e1;stop-opacity:1"
+         style="stop-color:#26c6da;stop-opacity:1"
          offset="0"
          id="stop966" />
       <stop
-         style="stop-color:#26c6da;stop-opacity:1"
+         style="stop-color:#4dd0e1;stop-opacity:1"
          offset="1"
          id="stop968" />
     </linearGradient>
@@ -154,7 +154,7 @@
        xlink:href="#linearGradient970"
        id="linearGradient889"
        x1="960"
-       y1="1695.1182"
+       y1="575.1181"
        x2="960"
        y2="175.11813"
        gradientUnits="userSpaceOnUse" />
@@ -164,7 +164,7 @@
        id="linearGradient901"
        gradientUnits="userSpaceOnUse"
        x1="960"
-       y1="1695.1182"
+       y1="574.19916"
        x2="960"
        y2="175.11813"
        gradientTransform="matrix(0.99999999,0,0,-0.99999999,0,1869.3173)" />
@@ -174,9 +174,9 @@
        id="linearGradient909"
        gradientUnits="userSpaceOnUse"
        x1="254"
-       y1="-168.66667"
+       y1="-115.74999"
        x2="254"
-       y2="233.5"
+       y2="191.16667"
        gradientTransform="matrix(3.7795276,0,0,3.7795276,0,812.59842)" />
     <linearGradient
        inkscape:collect="always"
@@ -184,9 +184,9 @@
        id="linearGradient932"
        gradientUnits="userSpaceOnUse"
        x1="254"
-       y1="-168.66667"
+       y1="-126.33334"
        x2="254"
-       y2="233.5"
+       y2="180.58333"
        gradientTransform="matrix(3.7795276,0,0,3.7795276,0,812.59843)" />
   </defs>
   <sodipodi:namedview
@@ -197,8 +197,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.37367573"
-     inkscape:cx="1022.3522"
-     inkscape:cy="1153.4641"
+     inkscape:cx="996.92909"
+     inkscape:cy="1073.1806"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -288,7 +288,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

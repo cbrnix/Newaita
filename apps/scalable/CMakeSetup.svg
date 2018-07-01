@@ -16,9 +16,33 @@
    version="1.1"
    id="svg3705"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="cmake.svg">
+   sodipodi:docname="CMakeSetup.svg">
   <defs
      id="defs3699">
+    <linearGradient
+       id="linearGradient877"
+       inkscape:collect="always">
+      <stop
+         id="stop873"
+         offset="0"
+         style="stop-color:#aed581;stop-opacity:1" />
+      <stop
+         id="stop875"
+         offset="1"
+         style="stop-color:#9ccc65;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient871">
+      <stop
+         style="stop-color:#7e57c2;stop-opacity:1"
+         offset="0"
+         id="stop867" />
+      <stop
+         style="stop-color:#9575cd;stop-opacity:1"
+         offset="1"
+         id="stop869" />
+    </linearGradient>
     <linearGradient
        id="linearGradient1078"
        inkscape:collect="always">
@@ -47,11 +71,11 @@
        inkscape:collect="always"
        id="linearGradient1062">
       <stop
-         style="stop-color:#f44336;stop-opacity:1"
+         style="stop-color:#ef5350;stop-opacity:1"
          offset="0"
          id="stop1058" />
       <stop
-         style="stop-color:#ef5350;stop-opacity:1"
+         style="stop-color:#e57373;stop-opacity:1"
          offset="1"
          id="stop1060" />
     </linearGradient>
@@ -175,7 +199,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1078"
+       xlink:href="#linearGradient871"
        id="linearGradient1088"
        gradientUnits="userSpaceOnUse"
        x1="254"
@@ -185,7 +209,7 @@
        gradientTransform="matrix(3.7795276,0,0,3.7795276,0,812.59843)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1070"
+       xlink:href="#linearGradient877"
        id="linearGradient1114"
        gradientUnits="userSpaceOnUse"
        gradientTransform="rotate(-120,254.29597,90.327035)"
@@ -202,8 +226,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.29780716"
-     inkscape:cx="256.84604"
-     inkscape:cy="735.40149"
+     inkscape:cx="792.42752"
+     inkscape:cy="832.77994"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -283,7 +307,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
