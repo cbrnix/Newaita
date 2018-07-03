@@ -45,18 +45,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient970-3">
-      <stop
-         style="stop-color:#536dfe;stop-opacity:1"
-         offset="0"
-         id="stop966" />
-      <stop
-         style="stop-color:#8c9eff;stop-opacity:1"
-         offset="1"
-         id="stop968" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient930">
       <stop
          style="stop-color:#000000;stop-opacity:0.3137255"
@@ -139,7 +127,7 @@
        r="21.166656" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient970-3"
+       xlink:href="#linearGradient970-3-6"
        id="linearGradient972"
        x1="306.91666"
        y1="-25.791676"
@@ -217,6 +205,18 @@
        x2="960"
        y2="455.1181"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient970-3-6">
+      <stop
+         style="stop-color:#5c6bc0;stop-opacity:1"
+         offset="0"
+         id="stop966-7" />
+      <stop
+         style="stop-color:#7986cb;stop-opacity:1"
+         offset="1"
+         id="stop968-5" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -226,17 +226,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.39117646"
-     inkscape:cx="600.30509"
-     inkscape:cy="854.89704"
+     inkscape:cx="737.07201"
+     inkscape:cy="934.14516"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1021"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0">
@@ -392,7 +392,7 @@
        height="402.16666"
        width="486.83334"
        id="rect957"
-       style="opacity:1;fill:url(#linearGradient972);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:url(#linearGradient972);fill-opacity:1.0;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path910"
