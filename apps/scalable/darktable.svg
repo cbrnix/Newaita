@@ -21,6 +21,18 @@
      id="defs3699">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient1063">
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1"
+         offset="0"
+         id="stop1059" />
+      <stop
+         style="stop-color:#bdbdbd;stop-opacity:1"
+         offset="1"
+         id="stop1061" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient915">
       <stop
          style="stop-color:#7e57c2;stop-opacity:1"
@@ -231,6 +243,15 @@
        x2="402.73822"
        y2="133.1803"
        gradientTransform="rotate(-180,254.28577,32.527648)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1063"
+       id="linearGradient1065"
+       x1="254"
+       y1="5.9583335"
+       x2="254"
+       y2="58.875"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -239,9 +260,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.13435029"
-     inkscape:cx="1121.4861"
-     inkscape:cy="1555.2359"
+     inkscape:zoom="0.26870058"
+     inkscape:cx="1181.5778"
+     inkscape:cy="1118.5005"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -452,5 +473,14 @@
        id="rect948"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccsccccccsccccccccc" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient1065);fill-opacity:1;stroke:#212121;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect1057"
+       width="52.916676"
+       height="52.916668"
+       x="227.54167"
+       y="5.9583335"
+       rx="26.458338"
+       ry="26.458334" />
   </g>
 </svg>
