@@ -3,3 +3,11 @@ Newaita icon theme is licensed under the CC BY-NC-SA 3.0 Linux icon theme combin
 
 If you want support me
 Paypal: ghostdmn2@gmail.com
+
+
+To change the icon options for a dark or light panel:
+1. Go to Newaita (or Newaita-dark) directory
+2. Open terminal here
+3. Type: chmod +x PV.sh
+4. Type: ./PV.sh
+5. Follow the menu options
