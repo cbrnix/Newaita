@@ -1,24 +1,112 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16pt" height="16pt" viewBox="0 0 16 16" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="16" height="16" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961;stroke:none;"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16pt"
+   height="16pt"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg25"
+   sodipodi:docname="network-wireless-signal-good.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="855"
+     inkscape:window-height="480"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="11.0625"
+     inkscape:cx="10.937853"
+     inkscape:cy="10.39548"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg25" />
+  <defs
+     id="defs16">
+    <filter
+       id="alpha"
+       filterUnits="objectBoundingBox"
+       x="0%"
+       y="0%"
+       width="100%"
+       height="100%">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix2" />
+    </filter>
+    <mask
+       id="mask0">
+      <g
+         filter="url(#alpha)"
+         id="g7">
+        <rect
+           x="0"
+           y="0"
+           width="16"
+           height="16"
+           style="fill:rgb(0%,0%,0%);fill-opacity:0.301961;stroke:none;"
+           id="rect5" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip1">
+      <rect
+         x="0"
+         y="0"
+         width="16"
+         height="16"
+         id="rect10" />
+    </clipPath>
+    <g
+       id="surface5"
+       clip-path="url(#clip1)">
+      <path
+         style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;"
+         d="M 7.9375 2.191406 C 5.296875 2.191406 2.875 3.09375 0.957031 4.609375 L 2.085938 6.25 C 3.679688 4.953125 5.714844 4.175781 7.9375 4.175781 C 10.160156 4.175781 12.195312 4.953125 13.789062 6.25 L 14.917969 4.609375 C 13.003906 3.09375 10.578125 2.191406 7.9375 2.191406 Z M 7.9375 2.191406 "
+         id="path13" />
+    </g>
+  </defs>
+  <g
+     id="surface1">
+    <path
+       style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;"
+       d="M 7.9375 10.128906 C 6.96875 10.128906 6.097656 10.542969 5.492188 11.207031 L 7.257812 13.769531 C 7.609375 14.101562 8.269531 14.101562 8.621094 13.769531 L 10.382812 11.207031 C 9.777344 10.542969 8.910156 10.128906 7.9375 10.128906 Z M 7.9375 10.128906 "
+       id="path18" />
+    <use
+       xlink:href="#surface5"
+       mask="url(#mask0)"
+       id="use20"
+       style="opacity:0.3" />
+    <path
+       style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;"
+       d="M 7.9375 6.160156 C 6.132812 6.160156 4.484375 6.8125 3.214844 7.894531 L 4.351562 9.542969 C 5.292969 8.675781 6.550781 8.144531 7.9375 8.144531 C 9.324219 8.144531 10.585938 8.675781 11.527344 9.542969 L 12.660156 7.894531 C 11.390625 6.8125 9.742188 6.160156 7.9375 6.160156 Z M 7.9375 6.160156 "
+       id="path22" />
   </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="16" height="16"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 7.9375 2.191406 C 5.296875 2.191406 2.875 3.09375 0.957031 4.609375 L 2.085938 6.25 C 3.679688 4.953125 5.714844 4.175781 7.9375 4.175781 C 10.160156 4.175781 12.195312 4.953125 13.789062 6.25 L 14.917969 4.609375 C 13.003906 3.09375 10.578125 2.191406 7.9375 2.191406 Z M 7.9375 2.191406 "/>
-</g>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 7.9375 10.128906 C 6.96875 10.128906 6.097656 10.542969 5.492188 11.207031 L 7.257812 13.769531 C 7.609375 14.101562 8.269531 14.101562 8.621094 13.769531 L 10.382812 11.207031 C 9.777344 10.542969 8.910156 10.128906 7.9375 10.128906 Z M 7.9375 10.128906 "/>
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 7.9375 6.160156 C 6.132812 6.160156 4.484375 6.8125 3.214844 7.894531 L 4.351562 9.542969 C 5.292969 8.675781 6.550781 8.144531 7.9375 8.144531 C 9.324219 8.144531 10.585938 8.675781 11.527344 9.542969 L 12.660156 7.894531 C 11.390625 6.8125 9.742188 6.160156 7.9375 6.160156 Z M 7.9375 6.160156 "/>
-</g>
 </svg>
