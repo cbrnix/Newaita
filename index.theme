@@ -16,7 +16,7 @@ PanelSizes=16,22,32,48,64,128,256
 FollowsColorScheme=true
 
 
-Directories=mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/32,,mimetypes/64,mimetypes/256,mimetypes/scalable,places/16,places/22,places/24,places/32,places/64,places/128,places/256,places/scalable,apps/16,apps/22,apps/24,apps/64,apps/128,apps/256,apps/scalable,actions/toolbar,actions/toolbar-small,actions/categories,devices/scalable,categories/16,categories/24,categories/32,categories/48,categories/64,categories/128,categories/256,categories/scalable,status/16,status/22,status/24,status/32,status/48,status/scalable,panel/scalable,panel/16,panel/22,panel/24,panel/48
+Directories=mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/32,,mimetypes/64,mimetypes/256,mimetypes/scalable,places/16,places/22,places/24,places/32,places/64,places/128,places/256,places/scalable,apps/16,apps/22,apps/24,apps/64,apps/128,apps/256,apps/scalable,actions/16,actions/22,actions/24,actions/32,actions/scalable,devices/scalable,categories/16,categories/24,categories/32,categories/48,categories/64,categories/128,categories/256,categories/scalable,status/16,status/22,status/24,status/32,status/48,status/scalable,panel/scalable,panel/16,panel/22,panel/24,panel/32
 
 
 [actions/toolbar]
@@ -330,7 +330,7 @@ Size=16
 Scale=2
 Context=Panel
 MinSize=8
-MaxSize=23
+MaxSize=21
 Type=Scalable
 
 [panel/22]
@@ -363,6 +363,49 @@ MaxSize=63
 
 [panel/scalable]
 Context=Panel
+Size=512
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[actions/16]
+Size=16
+Scale=2
+Context=Actions
+MinSize=8
+MaxSize=21
+Type=Scalable
+
+[actions/22]
+Size=22
+Context=Actions
+MinSize=8
+MaxSize=23
+Type=Scalable
+
+[actions/24]
+Size=24
+Context=Actions
+MinSize=8
+MaxSize=31
+Type=Scalable
+
+[actions/32]
+Size=32
+Context=Actions
+Type=Scalable
+MinSize=8
+MaxSize=47
+
+[actions/48]
+Size=48
+Context=Actions
+Type=Scalable
+MinSize=8
+MaxSize=63
+
+[actions/scalable]
+Context=Actions
 Size=512
 MinSize=8
 MaxSize=512

@@ -168,16 +168,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1157"
-       id="linearGradient914"
-       x1="960"
-       y1="1415.1182"
-       x2="960"
-       y2="775.1181"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26458332,0,0,0.26458332,-550.33333,-215)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1157"
        id="linearGradient958"
        x1="960"
        y1="1415.1182"
@@ -192,9 +182,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38"
-     inkscape:cx="1011.949"
-     inkscape:cy="613.94701"
+     inkscape:zoom="0.19"
+     inkscape:cx="1517.1598"
+     inkscape:cy="-103.99935"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -203,7 +193,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0">
@@ -284,7 +274,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -394,11 +384,6 @@
        transform="matrix(0.92774047,0,0,0.92774047,-420.80339,14.567494)"
        id="g883"
        style="fill:url(#linearGradient998);fill-opacity:1;stroke:#212121;stroke-width:3.23366308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="opacity:1;fill:url(#linearGradient914);fill-opacity:1;stroke:#212121;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -296.33333,-9.9169127 c -41.59645,0 -79.5959,14.8502659 -109.01144,39.5577897 l 26.98027,32.671901 c 22.09909,-18.667677 50.70571,-29.895842 82.03117,-29.895842 31.32545,0 59.93206,11.228165 82.03117,29.895842 l 26.98025,-32.671901 C -216.73743,4.9333532 -254.73689,-9.9169127 -296.33333,-9.9169127 Z m 0,74.0838377 c -23.62247,0 -45.18248,8.514397 -61.79365,22.652884 l 51.21031,62.013281 c 9.26042,10.58333 11.90626,10.58333 21.16667,0 l 51.21032,-62.013281 c -16.61118,-14.138487 -38.17118,-22.652884 -61.79365,-22.652884 z"
-       id="rect869"
-       inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:url(#linearGradient958);fill-opacity:1;stroke:#212121;stroke-width:11.33858299;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 960 775.11719 C 782.72001 775.11719 640 917.83718 640 1095.1172 C 640 1272.3972 782.72001 1415.1172 960 1415.1172 C 1137.28 1415.1172 1280 1272.3972 1280 1095.1172 C 1280 917.83718 1137.28 775.11719 960 775.11719 z M 960 935.11719 C 1048.6401 935.11719 1120 1006.4791 1120 1095.1191 C 1120 1183.7592 1048.6401 1255.1191 960 1255.1191 C 871.35994 1255.1191 800 1183.7592 800 1095.1191 C 800 1006.4791 871.35994 935.11719 960 935.11719 z M 960 975.11719 C 893.51997 975.11719 840 1028.6391 840 1095.1191 C 840 1161.5992 893.51997 1215.1191 960 1215.1191 C 1026.48 1215.1191 1080 1161.5992 1080 1095.1191 C 1080 1028.6391 1026.48 975.11719 960 975.11719 z M 960 1015.1172 C 1004.32 1015.1172 1040 1050.7972 1040 1095.1172 C 1040 1139.4372 1004.32 1175.1172 960 1175.1172 C 915.67999 1175.1172 880 1139.4372 880 1095.1172 C 880 1050.7972 915.67999 1015.1172 960 1015.1172 z "
