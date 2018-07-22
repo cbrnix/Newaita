@@ -109,55 +109,62 @@ Scale=2
 Context=Categories
 MinSize=8
 MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [categories/22]
 Size=22
 Context=Categories
 MinSize=8
 MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [categories/24]
 Size=24
 Context=Categories
 MinSize=8
 MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [categories/32]
 Size=32
 Context=Categories
 MinSize=8
 MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [categories/48]
 Size=48
 Context=Categories
 MinSize=8
 MaxSize=63
-Type=Scalable
+Type=Fixed
 
 [categories/64]
 Size=64
 Context=Categories
 MinSize=8
 MaxSize=127
-Type=Scalable
+Type=Fixed
 
 [categories/128]
 Size=64
 Context=Categories
 MinSize=8
 MaxSize=255
-Type=Scalable
+Type=Fixed
 
 [categories/256]
 Size=64
 Context=Categories
 MinSize=8
 MaxSize=511
+Type=Fixed
+
+[categories/scalable]
+Size=512
+Context=Categories
+MinSize=8
+MaxSize=512
 Type=Scalable
 
 [devices/16]
@@ -222,7 +229,7 @@ Scale=2
 Context=MimeTypes
 MinSize=8
 MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [mimetypes/22]
 Size=22
@@ -236,28 +243,28 @@ Size=24
 Context=MimeTypes
 MinSize=8
 MaxSize=63
-Type=Scalable
+Type=Fixed
 
 [mimetypes/64]
 Size=64
 Context=MimeTypes
 MinSize=8
 MaxSize=127
-Type=Scalable
+Type=Fixed
 
 [mimetypes/128]
 Size=128
 Context=MimeTypes
 MinSize=8
 MaxSize=255
-Type=Scalable
+Type=Fixed
 
 [mimetypes/256]
 Size=256
 Context=Mimetypes
 MinSize=8
 MaxSize=511
-Type=Scalable
+Type=Fixed
 
 [mimetypes/scalable]
 Size=16
@@ -272,21 +279,21 @@ Scale=2
 Context=Places
 MinSize=8
 MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [places/22]
 Size=22
 Context=Places
 MinSize=8
 MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [places/24]
 Size=24
 Context=Places
 MinSize=8
 MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [places/32]
 Size=32
@@ -298,21 +305,21 @@ MaxSize=47
 [places/64]
 Size=64
 Context=Places
-Type=Scalable
+Type=Fixed
 MinSize=8
 MaxSize=127
 
 [places/128]
 Size=128
 Context=Places
-Type=Scalable
+Type=Fixed
 MinSize=8
 MaxSize=255
 
 [places/256]
 Size=256
 Context=Places
-Type=Scalable
+Type=Fixed
 MinSize=8
 MaxSize=511
 
@@ -329,14 +336,14 @@ Scale=2
 Context=Status
 MinSize=8
 MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [status/22]
 Size=22
 Context=Status
 MinSize=8
 MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [status/24]
 Size=24
@@ -348,14 +355,14 @@ Type=Scalable
 [status/32]
 Size=32
 Context=Status
-Type=Scalable
+Type=Fixed
 MinSize=8
 MaxSize=47
 
 [status/48]
 Size=48
 Context=Status
-Type=Scalable
+Type=Fixed
 MinSize=8
 MaxSize=63
 
@@ -372,33 +379,33 @@ Scale=2
 Context=Panel
 MinSize=8
 MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [panel/22]
 Size=22
 Context=Panel
 MinSize=8
 MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [panel/24]
 Size=24
 Context=Panel
 MinSize=8
 MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [panel/32]
 Size=32
 Context=Panel
-Type=Scalable
+Type=Fixed
 MinSize=8
 MaxSize=47
 
 [panel/48]
 Size=48
 Context=Panel
-Type=Scalable
+Type=Fixed
 MinSize=8
 MaxSize=63
 
@@ -415,33 +422,33 @@ Scale=2
 Context=Actions
 MinSize=8
 MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [actions/22]
 Size=22
 Context=Actions
 MinSize=8
 MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [actions/24]
 Size=24
 Context=Actions
 MinSize=8
 MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [actions/32]
 Size=32
 Context=Actions
-Type=Scalable
+Type=Fixed
 MinSize=8
 MaxSize=47
 
 [actions/48]
 Size=48
 Context=Actions
-Type=Scalable
+Type=Fixed
 MinSize=8
 MaxSize=63
 
