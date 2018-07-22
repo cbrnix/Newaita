@@ -65,6 +65,13 @@ Type=Fixed
 Context=Applications
 Size=22
 MinSize=8
+MaxSize=23
+Type=Fixed
+
+[apps/24]
+Context=Applications
+Size=24
+MinSize=8
 MaxSize=31
 Type=Fixed
 
@@ -147,14 +154,14 @@ MaxSize=127
 Type=Fixed
 
 [categories/128]
-Size=64
+Size=128
 Context=Categories
 MinSize=8
 MaxSize=255
 Type=Fixed
 
 [categories/256]
-Size=64
+Size=256
 Context=Categories
 MinSize=8
 MaxSize=511
@@ -242,6 +249,13 @@ Type=Scalable
 Size=24
 Context=MimeTypes
 MinSize=8
+MaxSize=31
+Type=Fixed
+
+[mimetypes/32]
+Size=32
+Context=MimeTypes
+MinSize=8
 MaxSize=63
 Type=Fixed
 
@@ -267,7 +281,7 @@ MaxSize=511
 Type=Fixed
 
 [mimetypes/scalable]
-Size=16
+Size=512
 Context=MimeTypes
 MinSize=8
 MaxSize=512
@@ -469,6 +483,13 @@ Type=Fixed
 [status/22]
 Context=Status
 Size=22
+MinSize=8
+MaxSize=23
+Type=Fixed
+
+[status/24]
+Context=Status
+Size=24
 MinSize=8
 MaxSize=31
 Type=Fixed
