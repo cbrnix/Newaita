@@ -504,7 +504,7 @@ Type=Fixed
 
 [status/64]
 Context=Status
-Size=64
+Size=63
 MinSize=8
 MaxSize=127
 Type=Fixed
