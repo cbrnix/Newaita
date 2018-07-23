@@ -1,4 +1,4 @@
-[Icon Theme]
+ [Icon Theme]
 Name=Newaita
 Comment=Personality icon theme by Cybernix (cybernix@protonmail.com)
 Inherits=gnome,hicolor
@@ -37,7 +37,7 @@ Type=Fixed
 Size=24
 Context=Actions
 MinSize=8
-MaxSize=32
+MaxSize=31
 Type=Fixed
 
 [actions/32]
@@ -79,7 +79,7 @@ Type=Fixed
 Context=Applications
 Size=32
 MinSize=8
-MaxSize=64
+MaxSize=63
 Type=Fixed
 
 [apps/64]
@@ -195,6 +195,13 @@ MinSize=8
 MaxSize=31
 Type=Fixed
 
+[devices/32]
+Size=32
+Context=Devices
+MinSize=8
+MaxSize=47
+Type=Fixed
+
 [devices/48]
 Size=48
 Context=Devices
@@ -235,7 +242,7 @@ Size=16
 Scale=2
 Context=MimeTypes
 MinSize=8
-MaxSize=23
+MaxSize=21
 Type=Fixed
 
 [mimetypes/22]
@@ -254,6 +261,13 @@ Type=Fixed
 
 [mimetypes/32]
 Size=32
+Context=MimeTypes
+MinSize=8
+MaxSize=47
+Type=Fixed
+
+[mimetypes/48]
+Size=48
 Context=MimeTypes
 MinSize=8
 MaxSize=63
@@ -275,7 +289,7 @@ Type=Fixed
 
 [mimetypes/256]
 Size=256
-Context=Mimetypes
+Context=MimeTypes
 MinSize=8
 MaxSize=511
 Type=Fixed
@@ -315,6 +329,13 @@ Context=Places
 Type=Scalable
 MinSize=8
 MaxSize=47
+
+[places/48]
+Size=48
+Context=Places
+Type=Scalable
+MinSize=8
+MaxSize=63
 
 [places/64]
 Size=64
@@ -390,41 +411,41 @@ Type=Scalable
 [panel/16]
 Size=16
 Scale=2
-Context=Panel
+Context=Status
 MinSize=8
 MaxSize=21
 Type=Fixed
 
 [panel/22]
 Size=22
-Context=Panel
+Context=Status
 MinSize=8
 MaxSize=23
 Type=Fixed
 
 [panel/24]
 Size=24
-Context=Panel
+Context=Status
 MinSize=8
 MaxSize=31
 Type=Fixed
 
 [panel/32]
 Size=32
-Context=Panel
+Context=Status
 Type=Fixed
 MinSize=8
 MaxSize=47
 
 [panel/48]
 Size=48
-Context=Panel
+Context=Status
 Type=Fixed
 MinSize=8
 MaxSize=63
 
 [panel/scalable]
-Context=Panel
+Context=Status
 Size=512
 MinSize=8
 MaxSize=512
@@ -498,7 +519,14 @@ Type=Fixed
 Context=Status
 Size=32
 MinSize=8
-MaxSize=64
+MaxSize=47
+Type=Fixed
+
+[status/48]
+Context=Status
+Size=48
+MinSize=8
+MaxSize=63
 Type=Fixed
 
 [status/64]
