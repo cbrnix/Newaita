@@ -1,5 +1,6 @@
 [Icon Theme]
 Name=Newaita-Dark
+
 Comment=Personality icon theme by Cybernix (cybernix@protonmail.com)
 Inherits=gnome,hicolor
 
@@ -390,41 +391,41 @@ Type=Scalable
 [panel/16]
 Size=16
 Scale=2
-Context=Panel
+Context=Status
 MinSize=8
 MaxSize=21
 Type=Fixed
 
 [panel/22]
 Size=22
-Context=Panel
+Context=Status
 MinSize=8
 MaxSize=23
 Type=Fixed
 
 [panel/24]
 Size=24
-Context=Panel
+Context=Status
 MinSize=8
 MaxSize=31
 Type=Fixed
 
 [panel/32]
 Size=32
-Context=Panel
+Context=Status
 Type=Fixed
 MinSize=8
 MaxSize=47
 
 [panel/48]
 Size=48
-Context=Panel
+Context=Status
 Type=Fixed
 MinSize=8
 MaxSize=63
 
 [panel/scalable]
-Context=Panel
+Context=Status
 Size=512
 MinSize=8
 MaxSize=512
