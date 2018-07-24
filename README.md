@@ -15,6 +15,13 @@ Paypal: ghostdmn2@gmail.com
 To change the icon options for a dark or light panel:
 1. Go to Newaita (or Newaita-dark) directory
 2. Open terminal here
-3. Type: chmod +x PV.sh
+3. Type: chmod +x ./PV.sh
 4. Type: ./PV.sh
+5. Follow the menu options
+
+To change folders:
+1. Go to Newaita (or Newaita-dark) directory
+2. Open terminal here
+3. Type: chmod +x ./FV.sh
+4. Type: ./FV.sh
 5. Follow the menu options
