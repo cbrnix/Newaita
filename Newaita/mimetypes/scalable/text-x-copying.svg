@@ -144,12 +144,11 @@
        x2="940"
        y2="175.11812" />
     <linearGradient
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,3.3333327e-7,-214.99976)"
        inkscape:collect="always"
        xlink:href="#linearGradient862"
-       id="linearGradient864"
+       id="linearGradient1111"
        x1="940"
-       y1="1295.1182"
+       y1="1255.1182"
        x2="940"
        y2="575.1181"
        gradientUnits="userSpaceOnUse" />
@@ -161,9 +160,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29780716"
-     inkscape:cx="545.43008"
-     inkscape:cy="934.00976"
+     inkscape:zoom="0.21058146"
+     inkscape:cx="184.246"
+     inkscape:cy="918.61796"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -195,7 +194,7 @@
        id="guide3715"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="248.70833,423.33332"
+       position="248.70833,343.95832"
        orientation="1,0"
        id="guide3717"
        inkscape:locked="false" />
@@ -205,7 +204,7 @@
        id="guide3719"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="412.74999,391.58332"
+       position="-10.583333,359.83332"
        orientation="4.2706773e-08,-1"
        id="guide3744"
        inkscape:locked="false" />
@@ -225,12 +224,12 @@
        id="guide890"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="174.625,227.54166"
+       position="179.91666,380.99999"
        orientation="1,0"
        id="guide976"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="322.79166,322.79166"
+       position="317.49999,243.41666"
        orientation="1,0"
        id="guide978"
        inkscape:locked="false" />
@@ -328,10 +327,11 @@
        id="path912"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:url(#linearGradient864);fill-opacity:1;stroke:#212121;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 248.70833,-62.833333 c -41.04216,0 -74.08333,23.60083 -74.08333,52.9166697 V 74.750003 c 0,29.315827 33.04117,52.916657 74.08333,52.916657 41.04217,0 74.08334,-23.60083 74.08334,-52.916657 V 64.16667 c 0,-2.931584 -8.2603,-5.291667 -18.52084,-5.291667 -7.9375,2.38e-4 -17.19791,-1.322679 -19.25619,5.291667 -3.41389,12.105163 -18.32382,21.166666 -36.30631,21.166666 -20.52108,0 -37.04167,-11.800416 -37.04167,-26.458333 V 5.958337 c 0,-14.6579203 16.52059,-26.45834 37.04167,-26.45834 17.98249,0 32.89242,9.0615 36.30631,21.16666997 2.05828,6.61483003 13.12633,5.23878003 19.25619,5.29167003 10.26054,0 18.52084,-2.36009 18.52084,-5.29167003 V -9.9166633 c 0,-29.3158397 -33.04117,-52.9166697 -74.08334,-52.9166697 z"
-       id="rect910"
+       style="opacity:0.98999999;vector-effect:none;fill:url(#linearGradient1111);fill-opacity:1;stroke:#212121;stroke-width:11.33858299;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 940,595.11719 c -188.36001,0 -340,151.64001 -340,340 0,188.36001 151.63999,340.00001 340,340.00001 188.36,0 340,-151.64 340,-340.00001 0,-188.35999 -151.64,-340 -340,-340 z m 0,60 c 155.12,0 280,124.87999 280,280 0,155.12001 -124.88,280.00001 -280,280.00001 -155.12002,0 -280,-124.88 -280,-280.00001 0,-155.12001 124.87998,-280 280,-280 z m 0,100 c -99.72001,0 -180,80.28 -180,180 0,99.72001 80.27999,180.00001 180,180.00001 85.9623,0 157.4713,-59.66 175.5684,-140.00001 -1.5466,-24.22768 -54.979,-12.73545 -62.3555,0 -16.405,46.69461 -60.77315,80.00001 -113.2129,80.00001 -66.47999,0 -120,-53.52 -120,-120.00001 0,-66.47999 53.52001,-120 120,-120 52.43975,0 96.8079,33.30534 113.2129,80 2.9197,18.01496 56.6045,27.35498 62.3555,0 -18.0971,-80.34002 -89.6061,-140 -175.5684,-140 z"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-215)"
+       id="rect1085"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssssssccssssccsss" />
+       sodipodi:nodetypes="sssssssssssssccsssccs" />
   </g>
 </svg>
