@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.07545666"
-     inkscape:cx="-5557.4893"
-     inkscape:cy="109.6059"
+     inkscape:zoom="0.219441"
+     inkscape:cx="924.50359"
+     inkscape:cy="752.95979"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1032"
+     inkscape:window-height="1019"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -59,17 +59,17 @@
        id="guide3715"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="253.99999,105.83333"
+       position="253.99999,253.99999"
        orientation="1,0"
        id="guide3717"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="613.83332,275.16666"
+       position="380.99999,253.99999"
        orientation="0,1"
        id="guide3742"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="592.66665,275.16666"
+       position="359.83332,253.99999"
        orientation="4.2706773e-08,-1"
        id="guide3744"
        inkscape:locked="false" />
@@ -94,14 +94,9 @@
        id="guide976"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="486.83332,105.83333"
+       position="328.08332,264.58333"
        orientation="1,0"
        id="guide978"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="592.66665,275.16666"
-       orientation="0,1"
-       id="guide1042"
        inkscape:locked="false" />
     <sodipodi:guide
        position="380.99999,486.83332"
@@ -118,11 +113,6 @@
        orientation="1,0"
        id="guide858"
        inkscape:locked="false" />
-    <sodipodi:guide
-       position="592.66665,275.16666"
-       orientation="0,1"
-       id="guide1001"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata3702">
@@ -132,7 +122,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -142,9 +132,9 @@
      id="layer1"
      transform="translate(0,215)">
     <path
-       style="opacity:1;fill:#ff7043;fill-opacity:1;stroke:none;stroke-width:11.33858299;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M 1240 895.11719 C 1151.36 895.11719 1080 966.47717 1080 1055.1172 L 1080 1375.1172 L 1040 1375.1172 C 995.68006 1375.1172 960 1410.7972 960 1455.1172 L 960 1775.1172 C 960 1819.4372 995.68006 1855.1172 1040 1855.1172 L 1760 1855.1172 C 1804.3199 1855.1172 1840 1819.4372 1840 1775.1172 L 1840 1455.1172 C 1840 1410.7972 1804.3199 1375.1172 1760 1375.1172 L 1720 1375.1172 L 1720 1055.1172 C 1720 966.47717 1648.64 895.11719 1560 895.11719 L 1240 895.11719 z M 1320 1055.1172 L 1480 1055.1172 C 1524.32 1055.1172 1560 1090.7972 1560 1135.1172 L 1560 1375.1172 L 1240 1375.1172 L 1240 1135.1172 C 1240 1090.7972 1275.68 1055.1172 1320 1055.1172 z "
-       transform="matrix(0.26458333,0,0,0.26458333,0,-215)"
-       id="rect849" />
+       inkscape:connector-curvature="0"
+       style="opacity:1;vector-effect:none;fill:#ff7043;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 375.78119,86.208737 c -11.72633,0 -21.16666,9.44033 -21.16666,21.166673 v 63.5 c -11.72634,0 -21.16667,9.44033 -21.16667,21.16666 v 42.33334 c 0,11.72633 9.44033,21.16666 21.16667,21.16666 h 95.25 c 11.72633,0 21.16666,-9.44033 21.16666,-21.16666 v -42.33334 c 0,-11.72633 -9.44033,-21.16666 -21.16666,-21.16666 v -63.5 c 0,-11.726343 -9.44034,-21.166673 -21.16667,-21.166673 z m 10.58334,21.166673 h 31.75 c 5.86316,0 10.58333,4.72016 10.58333,10.58333 v 52.91667 h -52.91667 v -52.91667 c 0,-5.86317 4.72017,-10.58333 10.58334,-10.58333 z m 15.875,84.66666 c 8.79475,0 15.875,7.08025 15.875,15.875 0,6.96421 -4.44125,12.84976 -10.6562,14.9996 0.0471,0.28485 0.0729,0.57679 0.0729,0.8754 v 15.87551 c 0,2.93158 -2.36009,5.29116 -5.29167,5.29116 -2.93159,0 -5.29167,-2.35958 -5.29167,-5.29116 v -15.87551 c 0,-0.29861 0.0259,-0.59055 0.0729,-0.8754 -6.21496,-2.14984 -10.6562,-8.03539 -10.6562,-14.9996 0,-8.79475 7.08025,-15.875 15.875,-15.875 z"
+       id="rect1145" />
   </g>
 </svg>
