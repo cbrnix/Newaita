@@ -16,7 +16,7 @@
    version="1.1"
    id="svg3705"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="card.svg">
+   sodipodi:docname="audio-card.svg">
   <defs
      id="defs3699">
     <linearGradient
@@ -151,11 +151,11 @@
        inkscape:collect="always"
        id="linearGradient970-3">
       <stop
-         style="stop-color:#66bb6a;stop-opacity:1"
+         style="stop-color:#42a5f5;stop-opacity:1"
          offset="0"
          id="stop966" />
       <stop
-         style="stop-color:#81c784;stop-opacity:1"
+         style="stop-color:#64b5f6;stop-opacity:1"
          offset="1"
          id="stop968" />
     </linearGradient>
@@ -261,7 +261,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25223164"
-     inkscape:cx="1271.0707"
+     inkscape:cx="488.06029"
      inkscape:cy="849.39373"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -269,7 +269,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1032"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -362,7 +362,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
