@@ -1,5 +1,7 @@
 # Newaita
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cbrnix/Newaita/master/cover.png" alt="preview"/>
+</p>
 Newaita icon theme is licensed under the CC BY-NC-SA 3.0 Linux icon theme combining old style and color of material design.
 
 ## Installation:
