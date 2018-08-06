@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22pt" height="22pt" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="22" height="22"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(36.078432%,41.960785%,75.294119%);fill-opacity:1;" d="M 13.1875 1.082031 L 19.101562 6.992188 L 19.101562 2.902344 C 19.101562 1.894531 18.289062 1.082031 17.28125 1.082031 Z M 13.1875 1.082031 "/>
+</g>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="22" height="22"/>
+</clipPath>
+<g id="surface8" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 4.546875 1.082031 C 3.539062 1.082031 2.730469 1.894531 2.730469 2.902344 L 2.730469 19.273438 C 2.730469 20.28125 3.539062 21.09375 4.546875 21.09375 L 17.28125 21.09375 C 18.289062 21.09375 19.101562 20.28125 19.101562 19.273438 L 19.101562 9.269531 L 10.914062 1.082031 Z M 5.003906 2.445312 L 10.234375 2.445312 L 17.738281 9.949219 L 17.738281 18.820312 C 17.738281 19.324219 17.332031 19.726562 16.828125 19.726562 L 5.003906 19.726562 C 4.5 19.726562 4.09375 19.324219 4.09375 18.820312 L 4.09375 3.355469 C 4.09375 2.851562 4.5 2.445312 5.003906 2.445312 Z M 5.003906 2.445312 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<use xlink:href="#surface8" mask="url(#mask1)"/>
+</g>
+</svg>
