@@ -7,7 +7,8 @@ echo "choose your folders variant
 3) Ubuntu
 4) Retrowave
 5) Default
-6) Quit"
+6) Darknight
+7) Quit"
 
 read n
 
@@ -23,6 +24,8 @@ ln -s ./.places-ubuntu ./places;;
 ln -s ./.places-retrowave ./places;;
 5)rm -rf ./places
 ln -s ./.places-default ./places;;
-6)break;;
+6)rm -rf ./places
+ln -s ./.places-darknight ./places;;
+7)break;;
 *)invalid option;;
 esac
