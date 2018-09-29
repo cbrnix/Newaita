@@ -8,7 +8,9 @@ echo "choose your folders variant
 4) Default
 5) Darknight
 6) Bluegray
-7) Quit"
+7) Aqua
+8) Gray
+9) Quit"
 
 read n
 
@@ -26,6 +28,10 @@ ln -s ./.places-default ./places;;
 ln -s ./.places-darknight ./places;;
 6)rm -rf ./places
 ln -s ./.places-bluegray ./places;;
-7)break;;
+7)rm -rf ./places
+ln -s ./.places-aqua ./places;;
+8)rm -rf ./places
+ln -s ./.places-gray ./places;;
+9)break;;
 *)invalid option;;
 esac
