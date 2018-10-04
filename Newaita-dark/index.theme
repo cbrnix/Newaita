@@ -37,8 +37,9 @@ Type=Fixed
 
 [actions/32]
 Size=32
-Context=Actions
-Type=Fixed
+MinSize=16
+MaxSize=32
+Type=Scalable
 
 [actions/16@2x]
 Size=16
@@ -60,9 +61,10 @@ Type=Fixed
 
 [actions/32@2x]
 Size=32
-Context=Actions
+MinSize=16
+MaxSize=32
 Scale=2
-Type=Fixed
+Type=Scalable
 
 #APPS
 
@@ -168,7 +170,7 @@ Type=Fixed
 Context=Categories
 Size=64
 Scale=2
-MinSize=64
+MinSize=16
 MaxSize=512
 Type=Scalable
 
@@ -279,7 +281,7 @@ Type=Fixed
 Context=Mimetypes
 Size=64
 Scale=2
-MinSize=64
+MinSize=16
 MaxSize=512
 Type=Scalable
 
@@ -314,7 +316,7 @@ Type=Fixed
 [mimetypes/64]
 Size=64
 Context=MimeTypes
-MinSize=64
+MinSize=16
 MaxSize=512
 Type=Scalable
 
@@ -352,7 +354,7 @@ Type=Fixed
 Context=Mimetypes
 Size=64
 Scale=2
-MinSize=64
+MinSize=16
 MaxSize=512
 Type=Scalable
 
@@ -471,9 +473,10 @@ Type=Fixed
 
 [panel/32@2x]
 Size=32
-Context=Status
-Scale=2
-Type=Fixed
+Context=Actions
+Type=Scalable
+MinSize=16
+MaxSize=32
 
 #ACTIONS
 
@@ -502,23 +505,9 @@ Type=Fixed
 [actions/32]
 Size=32
 Context=Actions
-Type=Fixed
-MinSize=8
-MaxSize=47
-
-[actions/48]
-Size=48
-Context=Actions
-Type=Fixed
-MinSize=8
-MaxSize=63
-
-[actions/scalable]
-Context=Actions
-Size=512
-MinSize=8
-MaxSize=512
 Type=Scalable
+MinSize=16
+MaxSize=32
 
 #STATUS
 
@@ -545,8 +534,8 @@ Type=Fixed
 [status/48]
 Context=Status
 Size=48
-MinSize=48
-MaxSize=512
+MinSize=16
+MaxSize=48
 Type=Scalable
 
 [status/16@2x]
@@ -577,7 +566,6 @@ Type=Fixed
 Context=Status
 Size=48
 Scale=2
-MinSize=48
-MaxSize=512
+MinSize=16
+MaxSize=48
 Type=Scalable
-
