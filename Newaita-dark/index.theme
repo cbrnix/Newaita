@@ -16,50 +16,52 @@ PanelSizes=16,22,32,48,64,128,256
 FollowsColorScheme=true
 
 
-Directories=mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/32,mimetypes/48,mimetypes/64,mimetypes/16@2x,mimetypes/22@2x,mimetypes/24@2x,mimetypes/32@2x,mimetypes/48@2x,mimetypes/64@2x,places/16,places/22,places/24,places/32,places/64,places/16@2x,places/22@2x,places/24@2x,places/32@2x,places/48@2x,places/64@2x,apps/16,apps/22,apps/24,apps/32,apps/48,apps/64,apps/16@2x,apps/22@2x,apps/24@2x,apps/32@2x,apps/48@2x,apps/64@2x,actions/16,actions/22,actions/24,actions/32,actions/16@2x,actions/22@2x,actions/24@2x,actions/32@2x,devices/16,devices/22,devices/24,devices/32,devices/48,devices/64,devices/16@2x,devices/22@2x,devices/24@2x,devices/32@2x,devices/48@2x,devices/64@2x,categories/16,categories/22,categories/24,categories/32,categories/48,categories/64,categories/16@2x,categories/22@2x,categories/24@2x,categories/32@2x,categories/48@2x,categories/64@2x,panel/16,panel/22,panel/24,panel/32,panel/16@2x,panel/22@2x,panel/24@2x,panel/32@2x,status/16,status/22,status/24,status/32,status/48,status/16@2x,status/22@2x,status/24@2x,status/32@2x,status/48@2x
+Directories=mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/32,mimetypes/48,mimetypes/64,mimetypes/16@2x,mimetypes/22@2x,mimetypes/24@2x,mimetypes/32@2x,mimetypes/48@2x,mimetypes/64@2x,places/16,places/22,places/24,places/32,places/48,places/64,places/16@2x,places/22@2x,places/24@2x,places/32@2x,places/48@2x,places/64@2x,apps/16,apps/22,apps/24,apps/32,apps/48,apps/64,apps/16@2x,apps/22@2x,apps/24@2x,apps/32@2x,apps/48@2x,apps/64@2x,actions/16,actions/22,actions/24,actions/32,actions/16@2x,actions/22@2x,actions/24@2x,actions/32@2x,devices/16,devices/22,devices/24,devices/32,devices/48,devices/64,devices/16@2x,devices/22@2x,devices/24@2x,devices/32@2x,devices/48@2x,devices/64@2x,categories/16,categories/22,categories/24,categories/32,categories/48,categories/64,categories/16@2x,categories/22@2x,categories/24@2x,categories/32@2x,categories/48@2x,categories/64@2x,panel/16,panel/22,panel/24,panel/32,panel/16@2x,panel/22@2x,panel/24@2x,panel/32@2x,status/16,status/22,status/24,status/32,status/48,status/16@2x,status/22@2x,status/24@2x,status/32@2x,status/48@2x
 
 #ACTIONS
 
 [actions/16]
-Size=16
 Context=Actions
+Size=16
 Type=Fixed
 
 [actions/22]
-Size=22
 Context=Actions
+Size=22
 Type=Fixed
 
 [actions/24]
-Size=24
 Context=Actions
+Size=24
 Type=Fixed
 
 [actions/32]
+Context=Actions
 Size=32
 MinSize=16
 MaxSize=32
 Type=Scalable
 
 [actions/16@2x]
-Size=16
 Context=Actions
+Size=16
 Scale=2
 Type=Fixed
 
 [actions/22@2x]
-Size=22
 Context=Actions
+Size=22
 Scale=2
 Type=Fixed
 
 [actions/24@2x]
-Size=24
 Context=Actions
+Size=24
 Scale=2
 Type=Fixed
 
 [actions/32@2x]
+Context=Actions
 Size=32
 MinSize=16
 MaxSize=32
@@ -142,35 +144,34 @@ Type=Scalable
 #CATEGORIES
 
 [categories/16]
-Size=16
 Context=Categories
+Size=16
 Type=Fixed
 
 [categories/22]
-Size=22
 Context=Categories
+Size=22
 Type=Fixed
 
 [categories/24]
-Size=24
 Context=Categories
+Size=24
 Type=Fixed
 
 [categories/32]
-Size=32
 Context=Categories
+Size=32
 Type=Fixed
 
 [categories/48]
-Size=48
 Context=Categories
+Size=48
 Type=Fixed
 
 [categories/64]
 Context=Categories
 Size=64
-Scale=2
-MinSize=16
+MinSize=64
 MaxSize=512
 Type=Scalable
 
@@ -216,28 +217,28 @@ Type=Scalable
 #DEVICES
 
 [devices/16]
-Size=16
 Context=Devices
+Size=16
 Type=Fixed
 
 [devices/22]
-Size=22
 Context=Devices
+Size=22
 Type=Fixed
 
 [devices/24]
-Size=24
 Context=Devices
+Size=24
 Type=Fixed
 
 [devices/32]
-Size=32
 Context=Devices
+Size=32
 Type=Fixed
 
 [devices/48]
-Size=48
 Context=Devices
+Size=48
 Type=Fixed
 
 [devices/64]
@@ -248,40 +249,40 @@ MaxSize=512
 Type=Scalable
 
 [devices/16@2x]
-Context=Mimetypes
+Context=Devices
 Size=16
 Scale=2
 Type=Fixed
 
 [devices/22@2x]
-Context=Mimetypes
+Context=Devices
 Size=22
 Scale=2
 Type=Fixed
 
 [devices/24@2x]
-Context=Mimetypes
+Context=Devices
 Size=24
 Scale=2
 Type=Fixed
 
 [devices/32@2x]
-Context=Mimetypes
+Context=Devices
 Size=32
 Scale=2
 Type=Fixed
 
 [devices/48@2x]
-Context=Mimetypes
+Context=Devices
 Size=48
 Scale=2
 Type=Fixed
 
 [devices/64@2x]
-Context=Mimetypes
+Context=Devices
 Size=64
 Scale=2
-MinSize=16
+MinSize=64
 MaxSize=512
 Type=Scalable
 
@@ -289,33 +290,33 @@ Type=Scalable
 #MIMETYPES
 
 [mimetypes/16]
-Size=16
 Context=MimeTypes
+Size=16
 Type=Fixed
 
 [mimetypes/22]
-Size=22
 Context=MimeTypes
+Size=22
 Type=Fixed
 
 [mimetypes/24]
-Size=24
 Context=MimeTypes
+Size=24
 Type=Fixed
 
 [mimetypes/32]
-Size=32
 Context=MimeTypes
+Size=32
 Type=Fixed
 
 [mimetypes/48]
-Size=48
 Context=MimeTypes
+Size=48
 Type=Fixed
 
 [mimetypes/64]
-Size=64
 Context=MimeTypes
+Size=64
 MinSize=16
 MaxSize=512
 Type=Scalable
@@ -354,7 +355,7 @@ Type=Fixed
 Context=Mimetypes
 Size=64
 Scale=2
-MinSize=16
+MinSize=64
 MaxSize=512
 Type=Scalable
 
@@ -386,11 +387,11 @@ Size=48
 Type=Fixed
 
 [places/64]
-Size=64
 Context=Places
-Type=Scalable
-MinSize=16
+Size=64
+MinSize=64
 MaxSize=512
+Type=Scalable
 
 [places/16@2x]
 Context=Places
@@ -426,7 +427,7 @@ Type=Fixed
 Context=Places
 Size=64
 Scale=2
-MinSize=16
+MinSize=64
 MaxSize=512
 Type=Scalable
 
@@ -434,80 +435,97 @@ Type=Scalable
 #PANEL
 
 [panel/16]
-Size=16
 Context=Status
+Size=16
 Type=Fixed
 
 [panel/22]
-Size=22
 Context=Status
+Size=22
 Type=Fixed
 
 [panel/24]
-Size=24
 Context=Status
+Size=24
 Type=Fixed
 
 [panel/32]
-Size=32
 Context=Status
+Size=32
 Type=Fixed
 
 [panel/16@2x]
-Size=16
 Context=Status
+Size=16
 Scale=2
 Type=Fixed
 
 [panel/22@2x]
-Size=22
 Context=Status
+Size=22
 Scale=2
 Type=Fixed
 
 [panel/24@2x]
-Size=24
 Context=Status
+Size=24
 Scale=2
 Type=Fixed
 
 [panel/32@2x]
+Context=Status
 Size=32
-Context=Actions
-Type=Scalable
 MinSize=16
 MaxSize=32
+Type=Scalable
+
 
 #ACTIONS
 
 [actions/16]
-Size=16
-Scale=2
 Context=Actions
-MinSize=8
-MaxSize=21
+Size=16
 Type=Fixed
 
 [actions/22]
-Size=22
 Context=Actions
-MinSize=8
-MaxSize=23
+Size=22
 Type=Fixed
 
 [actions/24]
-Size=24
 Context=Actions
-MinSize=8
-MaxSize=31
+Size=24
 Type=Fixed
 
 [actions/32]
-Size=32
 Context=Actions
-Type=Scalable
-MinSize=16
-MaxSize=32
+Size=32
+Type=Fixed
+
+[actions/16@2x]
+Context=Actions
+Size=16
+Scale=2
+Type=Fixed
+
+[actions/22@2x]
+Context=Actions
+Size=22
+Scale=2
+Type=Fixed
+
+[actions/24@2x]
+Context=Actions
+Size=24
+Scale=2
+Type=Fixed
+
+[actions/32@2x]
+Context=Actions
+Size=32
+Scale=2
+Type=Fixed
+
 
 #STATUS
 
@@ -534,8 +552,8 @@ Type=Fixed
 [status/48]
 Context=Status
 Size=48
-MinSize=16
-MaxSize=48
+MinSize=48
+MaxSize=512
 Type=Scalable
 
 [status/16@2x]
@@ -565,7 +583,7 @@ Type=Fixed
 [status/48@2x]
 Context=Status
 Size=48
+MinSize=48
+MaxSize=512
 Scale=2
-MinSize=16
-MaxSize=48
 Type=Scalable
