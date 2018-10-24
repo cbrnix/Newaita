@@ -35,6 +35,5 @@ If you urgently needed any icon, please write in the comments on the page https:
 ## Support
 If you want support me - 
 
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VQ69WFQF7ZDH4
 
 
