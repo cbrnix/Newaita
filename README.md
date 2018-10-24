@@ -33,4 +33,5 @@ special thanks to btd1337 (https://github.com/btd1337)
 If you urgently needed any icon, please write in the comments on the page https://store.kde.org/p/1243493/
  
 ## Support
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VQ69WFQF7ZDH4)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5BXKLL6AVFQ2W)
+
