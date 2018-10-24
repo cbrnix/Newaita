@@ -34,4 +34,4 @@ If you urgently needed any icon, please write in the comments on the page https:
  
 ## Support
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](paypal.me/cbrnix)
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/cbrnix)
