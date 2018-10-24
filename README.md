@@ -33,7 +33,5 @@ special thanks to btd1337 (https://github.com/btd1337)
 If you urgently needed any icon, please write in the comments on the page https://store.kde.org/p/1243493/
  
 ## Support
-If you want support me - 
 
-
-
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](paypal.me/cbrnix)
