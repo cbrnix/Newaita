@@ -34,4 +34,3 @@ If you urgently needed any icon, please write in the comments on the page https:
  
 ## Support
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5BXKLL6AVFQ2W)
-
