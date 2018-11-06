@@ -1,6 +1,13 @@
  
 #!/bin/bash
 
+if ! grep -q "Newaita" ./README.md; then
+echo "Error: You are not inside Newaita directory"
+echo "Do:"
+echo " # cd /path/to/Newaita"
+exit 1
+fi
+
 echo "choose your folders variant
 1) Aqua
 2) Blue
