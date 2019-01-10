@@ -327,13 +327,13 @@ MaxSize=512
 Type=Scalable
 
 [mimetypes/16@2x]
-Context=Mimetypes
+Context=MimeTypes
 Size=16
 Scale=2
 Type=Fixed
 
 [mimetypes/22@2x]
-Context=Mimetypes
+Context=MimeTypes
 Size=22
 Scale=2
 Type=Fixed
@@ -345,13 +345,13 @@ Scale=2
 Type=Fixed
 
 [mimetypes/32@2x]
-Context=Mimetypes
+Context=MimeTypes
 Size=32
 Scale=2
 Type=Fixed
 
 [mimetypes/48@2x]
-Context=Mimetypes
+Context=MimeTypes
 Size=48
 Scale=2
 Type=Fixed
