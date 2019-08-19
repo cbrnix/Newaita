@@ -17,7 +17,10 @@ read -p "choose your folders variant
 7) Mint
 8) Ubuntu
 9) Default
-10) Quit
+10) Indigo
+11) Red
+12) Yellow
+13) Quit
 >" n
 
 case $n in
@@ -39,6 +42,12 @@ case $n in
 		ln -s ./.places-ubuntu ./places;;
 	9) rm -f ./places
 		ln -s ./.places-default ./places;;
-	10) exit;;
+	10)rm -f ./places
+		ln -s ./.places-indigo ./places;;
+	11)rm -f ./places
+		ln -s ./.places-red ./places;;
+	12)rm -f ./places
+		ln -s ./.places-yellow ./places;;
+	13) exit;;
 	*) echo "invalid option";;
 esac
