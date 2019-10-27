@@ -20,7 +20,8 @@ read -p "choose your folders variant
 10) Indigo
 11) Red
 12) Yellow
-13) Quit
+13) Cyan
+14) Quit
 >" n
 
 case $n in
@@ -48,6 +49,9 @@ case $n in
 		ln -s ./.places-red ./places;;
 	12)rm -f ./places
 		ln -s ./.places-yellow ./places;;
-	13) exit;;
+	13)rm -f ./places
+		ln -s ./.places-cyan ./places;;	
+	14) exit;;
 	*) echo "invalid option";;
 esac
+
