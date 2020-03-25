@@ -6,7 +6,13 @@
    .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
   </style>
  </defs>
-<path style="fill:currentColor" class="ColorScheme-Text" d="M 5.25 3 C 4.835938 3 4.5 3.335938 4.5 3.75 L 4.5 16.5 L 3 16.5 L 6 21 L 9 16.5 L 7.5 16.5 L 7.5 3.75 C 7.5 3.335938 7.164062 3 6.75 3 Z M 18 3 L 15 7.5 L 16.5 7.5 L 16.5 20.25 C 16.5 20.664062 16.835938 21 17.25 21 L 18.75 21 C 19.164062 21 19.5 20.664062 19.5 20.25 L 19.5 7.5 L 21 7.5 Z M 18 3 "/>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 16.5 3 L 16.5 6 L 3 6 L 3 7.5 L 16.5 7.5 L 16.5 10.5 L 21 6.75 Z M 16.5 3 "/>
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 7.5 13.5625 L 3 17.25 L 7.5 21 L 7.5 18 L 21 18 L 21 16.5 L 7.5 16.5 Z M 7.5 13.5625 "/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(14.901961%,65.098041%,60.392159%);fill-opacity:1;" d="M 12 9 C 10.339844 9 9 10.339844 9 12 C 9 13.660156 10.339844 15 12 15 C 13.660156 15 15 13.660156 15 12 C 15 10.339844 13.660156 9 12 9 Z M 12 10.5 C 12.832031 10.5 13.5 11.167969 13.5 12 C 13.5 12.832031 12.832031 13.5 12 13.5 C 11.167969 13.5 10.5 12.832031 10.5 12 C 10.5 11.167969 11.167969 10.5 12 10.5 Z M 12 10.5 "/>
 </g>
 </svg>
