@@ -1,7 +1,34 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image15" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAALklEQVRYhe3OMQEAMAyAMFrlkz4ZfYIBMtXrsL2cAwAAAAAAAAAAAAAAAAAAVH0itgDALZYzxwAAAABJRU5ErkJggg=="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image15"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="32" height="32"/>
+</clipPath>
+<g id="surface14" clip-path="url(#clip1)">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor;fill-opacity:0.5" class="ColorScheme-Text" d="M 27.695312 4.226562 C 27.296875 3.859375 26.726562 3.75 26.226562 3.945312 L 4.742188 12.445312 C 3.5 12.9375 3.578125 14.710938 4.859375 15.09375 L 14.125 17.875 L 16.90625 27.148438 C 17.289062 28.421875 19.0625 28.5 19.5625 27.257812 L 28.046875 5.773438 C 28.257812 5.234375 28.125 4.617188 27.695312 4.226562 Z M 25.578125 6.351562 L 18.507812 24.734375 L 15.679688 16.25 L 7.195312 13.421875 Z M 25.578125 6.351562 "/>
+</g>
+</defs>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:0.392157;" d="M 26 4.671875 C 25.828125 4.667969 25.652344 4.699219 25.488281 4.765625 L 4.90625 12.902344 C 3.714844 13.375 3.789062 15.082031 5.011719 15.449219 L 13.894531 18.113281 L 16.554688 26.988281 C 16.921875 28.214844 18.628906 28.285156 19.097656 27.097656 L 19.457031 26.199219 C 18.871094 25.421875 18.523438 24.453125 18.523438 23.402344 C 18.523438 21.105469 20.175781 19.210938 22.363281 18.839844 L 27.238281 6.515625 C 27.441406 5.996094 27.308594 5.410156 26.898438 5.03125 C 26.648438 4.800781 26.328125 4.675781 26 4.671875 Z M 26 4.671875 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 23.152344 20.097656 C 24.980469 20.097656 26.460938 21.574219 26.460938 23.402344 C 26.460938 25.230469 24.980469 26.710938 23.152344 26.710938 C 21.324219 26.710938 19.847656 25.230469 19.847656 23.402344 C 19.847656 21.574219 21.324219 20.097656 23.152344 20.097656 Z M 23.152344 20.097656 "/>
+<use xlink:href="#surface14" mask="url(#mask0)"/>
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 25 22 C 26.65625 22 28 23.34375 28 25 C 28 26.65625 26.65625 28 25 28 C 23.34375 28 22 26.65625 22 25 C 22 23.34375 23.34375 22 25 22 Z M 25 22 "/>
 </g>
 </svg>

@@ -1,0 +1,27 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="16" style="fill:rgb(0%,0%,0%);fill-opacity:0.5;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="16" height="16"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor;fill-opacity:0.5" class="ColorScheme-Text" d="M 4 2 C 2.890625 2 2 2.890625 2 4 L 2 12 C 2 13.109375 2.890625 14 4 14 L 8 14 C 9.109375 14 10 13.109375 10 12 L 10 4 C 10 2.890625 9.109375 2 8 2 Z M 4 3 L 5 3 L 5 4 L 7 4 L 7 3 L 8 3 C 8.554688 3 9 3.445312 9 4 L 9 12 C 9 12.554688 8.554688 13 8 13 L 4 13 C 3.445312 13 3 12.554688 3 12 L 3 4 C 3 3.445312 3.445312 3 4 3 Z M 11 4 L 11 5 L 12 5 C 12.554688 5 13 5.445312 13 6 L 13 12 C 13 12.554688 12.554688 13 12 13 L 11 13 L 11 14 L 12 14 C 13.109375 14 14 13.109375 14 12 L 14 6 C 14 4.890625 13.105469 4.039062 12 4 Z M 4 11 L 4 12 L 8 12 L 8 11 Z M 11 11 L 11 12 L 12 12 L 12 11 Z M 11 11 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+</g>
+</svg>

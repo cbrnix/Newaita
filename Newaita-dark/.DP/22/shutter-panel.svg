@@ -1,13 +1,82 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image15" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAJElEQVQ4jWNkYGBoYKABYKKFoaMGjxo8avCowaMGjxo8kgwGAIEmAKySt/SkAAAAAElFTkSuQmCC"/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image15"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="22" height="22"/>
+</clipPath>
+<g id="surface14" clip-path="url(#clip1)">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 7.625 10.515625 L 3.550781 14.59375 C 4.382812 16.371094 5.832031 17.785156 7.625 18.589844 Z M 7.625 10.515625 "/>
+</g>
+<image id="image28" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAJElEQVQ4jWNkYGBoYKABYKKFoaMGjxo8avCowaMGjxo8kgwGAIEmAKySt/SkAAAAAElFTkSuQmCC"/>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<use xlink:href="#image28"/>
+  </g>
+</mask>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="22" height="22"/>
+</clipPath>
+<g id="surface27" clip-path="url(#clip2)">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 8.25 13.074219 L 8.25 18.839844 C 10.09375 19.496094 12.121094 19.476562 13.953125 18.78125 Z M 8.25 13.074219 "/>
+</g>
+</defs>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:0.392157;" d="M 7.554688 10.632812 L 3.515625 14.671875 C 4.347656 16.429688 5.78125 17.832031 7.554688 18.628906 Z M 7.554688 10.632812 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:0.392157;" d="M 8.175781 13.167969 L 8.175781 18.878906 C 10.003906 19.53125 12.011719 19.507812 13.828125 18.820312 Z M 8.175781 13.167969 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 10.898438 2.945312 C 10.839844 2.945312 10.777344 2.945312 10.714844 2.945312 C 9.796875 2.96875 8.882812 3.15625 8.015625 3.488281 L 13.667969 9.140625 L 13.667969 3.425781 C 12.773438 3.109375 11.835938 2.945312 10.898438 2.945312 Z M 10.898438 2.945312 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 14.285156 3.675781 L 14.285156 11.671875 L 18.328125 7.632812 C 17.492188 5.878906 16.058594 4.472656 14.285156 3.675781 Z M 14.285156 3.675781 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 7.394531 3.742188 C 5.640625 4.578125 4.234375 6.011719 3.4375 7.789062 L 11.441406 7.789062 Z M 7.394531 3.742188 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 18.585938 8.246094 L 12.933594 13.898438 L 18.648438 13.898438 C 19.296875 12.070312 19.277344 10.0625 18.585938 8.246094 Z M 18.585938 8.246094 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 3.195312 8.40625 C 2.542969 10.234375 2.5625 12.242188 3.253906 14.058594 L 8.910156 8.40625 Z M 3.195312 8.40625 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 10.402344 14.519531 L 14.441406 18.558594 C 16.195312 17.726562 17.597656 16.292969 18.394531 14.519531 Z M 10.402344 14.519531 "/>
+<use xlink:href="#surface14" mask="url(#mask0)"/>
+<use xlink:href="#surface27" mask="url(#mask1)"/>
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor;fill-opacity:0.5" class="ColorScheme-Text" d="M 11 2.75 C 10.941406 2.75 10.875 2.75 10.816406 2.753906 C 9.886719 2.777344 8.964844 2.964844 8.089844 3.296875 L 13.796875 9.007812 L 13.796875 3.238281 C 12.890625 2.917969 11.949219 2.75 11 2.75 Z M 11 2.75 "/>
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor;fill-opacity:0.5" class="ColorScheme-Text" d="M 14.421875 3.492188 L 14.421875 11.5625 L 18.5 7.488281 C 17.660156 5.710938 16.210938 4.296875 14.421875 3.492188 Z M 14.421875 3.492188 "/>
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 7.464844 3.554688 C 5.6875 4.398438 4.269531 5.847656 3.464844 7.644531 L 11.546875 7.644531 Z M 7.464844 3.554688 "/>
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 18.761719 8.105469 L 13.058594 13.8125 L 18.824219 13.8125 C 19.480469 11.964844 19.460938 9.941406 18.761719 8.105469 Z M 18.761719 8.105469 "/>
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 3.222656 8.265625 C 2.5625 10.113281 2.582031 12.136719 3.28125 13.976562 L 8.992188 8.265625 Z M 3.222656 8.265625 "/>
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 10.5 14.4375 L 14.578125 18.515625 C 16.351562 17.675781 17.765625 16.226562 18.574219 14.4375 Z M 10.5 14.4375 "/>
 </g>
 </svg>

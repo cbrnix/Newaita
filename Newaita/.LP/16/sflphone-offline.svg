@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#424242" fill-opacity=".392"><path d="M11.652 13.898L10 11.035a.664.664 0 0 1 .242-.906l.574-.328a.66.66 0 0 1 .903.242l1.652 2.863a.66.66 0 0 1-.242.903l-.57.332a.664.664 0 0 1-.907-.243zm0 0M5.648 10.11c.66 1.144 3.141 5.44 5.72 3.953l-1.653-2.864c-.86.496-2.262-.605-2.922-1.75-.66-1.148-.918-2.91-.059-3.406L5.082 3.18c-2.578 1.488-.098 5.785.566 6.93zm0 0M5.367 3.012l1.656 2.867a.663.663 0 0 0 .903.242L8.5 5.79a.66.66 0 0 0 .242-.902L7.086 2.02a.662.662 0 0 0-.902-.243l-.575.332a.663.663 0 0 0-.242.903zm0 0"/></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image14" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAHUlEQVQ4jWNkYGBoYKAAMFGiedSAUQNGDRhMBgAASy4AoLNi1pcAAAAASUVORK5CYII="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image14"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="16" height="16"/>
+</clipPath>
+<g id="surface13" clip-path="url(#clip1)">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+ </defs>
+<path style="fill:currentColor;fill-opacity:0.5" class="ColorScheme-Text" d="M 6.230469 9.269531 C 8.582031 11.617188 11.183594 12.800781 12.066406 11.917969 L 12.597656 11.390625 L 10.476562 9.269531 C 10.082031 9.660156 8.820312 9.027344 7.644531 7.855469 C 6.472656 6.679688 5.839844 5.417969 6.230469 5.023438 L 4.109375 2.902344 L 3.582031 3.433594 C 2.699219 4.316406 3.882812 6.917969 6.230469 9.269531 Z M 12.949219 11.035156 L 13.304688 10.683594 C 13.695312 10.289062 13.695312 9.660156 13.304688 9.269531 L 12.597656 8.5625 C 12.203125 8.167969 11.574219 8.167969 11.183594 8.5625 L 10.828125 8.914062 Z M 6.585938 4.671875 L 6.9375 4.316406 C 7.332031 3.925781 7.332031 3.296875 6.9375 2.902344 L 6.230469 2.195312 C 5.839844 1.804688 5.210938 1.804688 4.816406 2.195312 L 4.464844 2.550781 Z M 6.585938 4.671875 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface13" mask="url(#mask0)"/>
+</g>
+</svg>

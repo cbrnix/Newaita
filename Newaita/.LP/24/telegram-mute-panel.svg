@@ -1,1 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="#424242"><path d="M19.5 3.504c-.129 0-.262.023-.383.07L3.68 9.68c-.89.351-.836 1.629.082 1.906l6.656 1.996 2 6.66c.273.918 1.555.973 1.906.082l.266-.676a3.48 3.48 0 0 1-.7-2.097 3.469 3.469 0 0 1 2.883-3.422l3.653-9.242a1.008 1.008 0 0 0-.926-1.383zm0 0" fill-opacity=".392"/><path d="M17.363 15.07a2.481 2.481 0 0 1 0 4.961 2.481 2.481 0 0 1 0-4.96zm0 0"/></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image15" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAJ0lEQVRIiWNkYGBoYKAhYKKl4aMWjFowasGoBaMWjFowasGoBdQDAG2jALB880JOAAAAAElFTkSuQmCC"/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image15"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="24" height="24"/>
+</clipPath>
+<g id="surface14" clip-path="url(#clip1)">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+ </defs>
+<path style="fill:currentColor;fill-opacity:0.5" class="ColorScheme-Text" d="M 20.769531 3.167969 C 20.472656 2.894531 20.042969 2.8125 19.667969 2.957031 L 3.558594 9.332031 C 2.625 9.703125 2.683594 11.035156 3.644531 11.320312 L 10.59375 13.40625 L 12.679688 20.363281 C 12.964844 21.316406 14.296875 21.375 14.671875 20.441406 L 21.035156 4.332031 C 21.191406 3.925781 21.09375 3.464844 20.769531 3.167969 Z M 19.183594 4.761719 L 13.878906 18.550781 L 11.761719 12.1875 L 5.394531 10.066406 Z M 19.183594 4.761719 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface14" mask="url(#mask0)"/>
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#424242; } .ColorScheme-Highlight { color:#eeeeee; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 18.75 16.5 C 19.992188 16.5 21 17.507812 21 18.75 C 21 19.992188 19.992188 21 18.75 21 C 17.507812 21 16.5 19.992188 16.5 18.75 C 16.5 17.507812 17.507812 16.5 18.75 16.5 Z M 18.75 16.5 "/>
+</g>
+</svg>

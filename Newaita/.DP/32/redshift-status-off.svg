@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image15" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAALklEQVRYhe3OMQEAMAyAMFrlkz4ZfYIBMtXrsL2cAwAAAAAAAAAAAAAAAAAAVH0itgDALZYzxwAAAABJRU5ErkJggg=="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image15"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="32" height="32"/>
+</clipPath>
+<g id="surface14" clip-path="url(#clip1)">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 16 4 C 11.570312 4 8 7.570312 8 12 C 8 14.96875 9.617188 17.515625 12 18.898438 L 12 24 C 12 25.109375 12.890625 26 14 26 L 14 28 L 18 28 L 18 26 C 19.109375 26 20 25.109375 20 24 L 20 18.898438 C 22.382812 17.515625 24 14.96875 24 12 C 24 7.570312 20.429688 4 16 4 Z M 16 6 C 19.320312 6 22 8.679688 22 12 C 22 15.320312 19.320312 18 16 18 C 12.679688 18 10 15.320312 10 12 C 10 8.679688 12.679688 6 16 6 Z M 16 8 C 13.78125 8 12 9.78125 12 12 L 14 12 C 14 10.890625 14.890625 10 16 10 Z M 14 19.71875 C 14.640625 19.890625 15.304688 20 16 20 C 16.695312 20 17.359375 19.890625 18 19.71875 L 18 23 C 18 23.554688 17.554688 24 17 24 L 15 24 C 14.445312 24 14 23.554688 14 23 Z M 14 19.71875 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface14" mask="url(#mask0)"/>
+</g>
+</svg>

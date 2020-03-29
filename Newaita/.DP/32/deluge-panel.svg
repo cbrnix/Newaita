@@ -1,6 +1,11 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 6.613281 19.433594 C 6.613281 24.199219 10.746094 28.035156 15.878906 28.035156 C 21.007812 28.035156 25.136719 24.199219 25.136719 19.433594 C 25.136719 14.144531 19.183594 10.832031 15.878906 4.21875 C 11.90625 10.832031 6.613281 14.144531 6.613281 19.433594 Z M 6.613281 19.433594 "/>
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 16 4 C 12 8 6 12 6 18 C 6 23.539062 10.460938 28 16 28 C 21.539062 28 26 23.539062 26 18 C 26 12 20 8 16 4 Z M 16 7 C 20 10 24 14 24 18 C 24 22.429688 20.429688 26 16 26 C 11.570312 26 8 22.429688 8 18 C 8 14 12 10 16 7 Z M 10 18 C 10 21.320312 12.679688 24 16 24 L 16 22 C 13.78125 22 12 20.21875 12 18 Z M 10 18 "/>
 </g>
 </svg>

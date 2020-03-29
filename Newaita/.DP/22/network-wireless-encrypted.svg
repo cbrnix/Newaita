@@ -1,0 +1,34 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image15" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAJElEQVQ4jWNkYGBoYKABYKKFoaMGjxo8avCowaMGjxo8kgwGAIEmAKySt/SkAAAAAElFTkSuQmCC"/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image15"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="22" height="22"/>
+</clipPath>
+<g id="surface14" clip-path="url(#clip1)">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor;fill-opacity:0.5" class="ColorScheme-Text" d="M 11 6.875 C 8.496094 6.875 6.175781 7.617188 4.234375 8.882812 L 5.160156 9.929688 C 6.851562 8.875 8.851562 8.25 11 8.25 C 13.148438 8.25 15.148438 8.875 16.839844 9.929688 L 17.765625 8.882812 C 15.824219 7.617188 13.503906 6.875 11 6.875 Z M 11 6.875 "/>
+</g>
+</defs>
+<g id="surface1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 11 2.75 C 7.4375 2.75 4.164062 3.878906 1.472656 5.78125 L 2.386719 6.8125 C 4.828125 5.117188 7.792969 4.125 11 4.125 C 14.207031 4.125 17.171875 5.117188 19.617188 6.8125 L 20.527344 5.78125 C 17.835938 3.878906 14.5625 2.75 11 2.75 Z M 11 11 C 9.554688 11 8.195312 11.371094 7.015625 12.019531 L 7.980469 13.101562 C 8.894531 12.648438 9.910156 12.375 11 12.375 C 11.75 12.375 12.464844 12.515625 13.136719 12.742188 C 13.4375 12.320312 13.8125 11.957031 14.242188 11.675781 C 13.25 11.246094 12.15625 11 11 11 Z M 16.5 12.375 C 14.976562 12.375 13.75 13.601562 13.75 15.125 L 13.75 19.25 L 19.25 19.25 L 19.25 15.125 C 19.25 13.601562 18.023438 12.375 16.5 12.375 Z M 16.5 13.75 C 17.261719 13.75 17.875 14.363281 17.875 15.125 L 17.875 16.5 L 15.125 16.5 L 15.125 15.125 C 15.125 14.363281 15.738281 13.75 16.5 13.75 Z M 11 15.125 C 9.855469 15.125 8.9375 16.042969 8.9375 17.1875 C 8.9375 18.332031 9.855469 19.25 11 19.25 C 11.53125 19.25 12.007812 19.046875 12.375 18.71875 L 12.375 15.65625 C 12.007812 15.328125 11.53125 15.125 11 15.125 Z M 11 15.125 "/>
+<use xlink:href="#surface14" mask="url(#mask0)"/>
+</g>
+</svg>
